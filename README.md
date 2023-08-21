@@ -1,8 +1,11 @@
-<h2 align="left">Hi 👋! My name is Rohit Singh and I'm a WebDeveloper, from India</h2>
+<h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
+
+<img align="center"  src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">It's Me "The Rohit Singh"</h2>
 
 ###
 
