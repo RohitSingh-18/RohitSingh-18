@@ -68,10 +68,6 @@
 </div>
 
 ###
-###
 
 <br clear="both">
-
-<img src="https://[raw.githubusercontent.com](https://github.com/RohitSingh-18)/RohitSingh-18/RohitSingh-18/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/RohitSingh-18/RohitSingh-18/output/snake.svg" alt="Snake animation" / >
