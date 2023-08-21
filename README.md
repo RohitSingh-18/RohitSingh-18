@@ -2,11 +2,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RohitSingh-18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<h2 align="left">About me</h2>
+
+###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJiMTVuN3QwcmgyaHV4cGs5Y3BuN2VqbjFrampqbHFubWVkaXVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RohitSingh-18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ###
 
@@ -62,8 +72,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ <a href="https://www.linkedin.com/in/rohitsingh18/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
+</a>
+
+
+  <a href="https://www.instagram.com/_._jerryy__/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
+</a>
+
 </div>
 
 ###
