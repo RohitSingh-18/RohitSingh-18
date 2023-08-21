@@ -4,13 +4,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RohitSingh-18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJiMTVuN3QwcmgyaHV4cGs5Y3BuN2VqbjFrampqbHFubWVkaXVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" pt="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJiMTVuN3QwcmgyaHV4cGs5Y3BuN2VqbjFrampqbHFubWVkaXVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
