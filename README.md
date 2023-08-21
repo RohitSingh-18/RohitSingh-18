@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">It's Me "The Rohit Singh"</h2>
+<h2 align="left">It's Me The "Rohit Singh"</h2>
 
 ###
 
@@ -24,8 +24,9 @@
 
 ###
 
+<h2 align="left">Skill Set</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
