@@ -1,6 +1,6 @@
 <h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
 
-<img align="center"  src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif"/>
+<img align="center"  src="[https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af)"/>
 </div>
 
 ###
