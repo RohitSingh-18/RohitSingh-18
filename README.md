@@ -1,6 +1,6 @@
 <h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
 
-<img align="center"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixeljeff1995.artstation.com%2Fprojects%2FRynnOv%3Falbum_id%3D45252&psig=AOvVaw3yoDoJAkZIqWbQNRM2Sjmc&ust=1694522720000000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjo0p3LooEDFQAAAAAdAAAAABAI"/>
+<img align="center"  src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"/>
 </div>
 
 ###
