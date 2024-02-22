@@ -1,5 +1,7 @@
 <h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
 
+[![An image of @rohitsingh18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitsingh18)](https://holopin.io/@rohitsingh18)
+
 ![snake gif](https://github.com/RohitSingh-18/RohitSingh-18/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 ###
