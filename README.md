@@ -12,6 +12,12 @@
 <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJiMTVuN3QwcmgyaHV4cGs5Y3BuN2VqbjFrampqbHFubWVkaXVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitSingh-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitSingh-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="left"> ✨ Creating bugs since... the dawn of digital mischief. <br> 📚 Currently learning... the intricacies of code origami. <br> 🎯 Goals: Master the virtual domain, automate relentlessly. <br>🎲 Fun fact: I can debug in my sleep—literally. <br>🌌 Exploring hobbies like... coding enigmas, stargazing breaks. <br>🎮 When not learning, I'm... battling pixels, hunting tacos.<br> 📸 My photography skills: Pixels and moments collide.<br> 🌱 Embracing personal growth through... fearless coding, calculated risks. </p>
 
