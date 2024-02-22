@@ -98,5 +98,3 @@
 
 ###
 
-![snake gif](https://github.com/RohitSingh-18/RohitSingh-18/blob/output/github-contribution-grid-snake.gif)
-< a href="https://github.com/RohitSingh-18/RohitSingh-18/blob/output/github-contribution-grid-snake.gif>">
