@@ -1,13 +1,11 @@
 <h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
 
+![snake gif](https://github.com/RohitSingh-18/RohitSingh-18/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
-
-<img align="center"  src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"/>
-</div>
 
 ###
 
-<h2 align="left">It's Me The "Rohit Singh"</h2>
+<h2 align="left">It's Me The "Rohit Singh" </h2>
 
 ###
 
