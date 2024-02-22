@@ -1,6 +1,6 @@
 <h2 align="center">'🏆' Hall Of Fame '🏆'</h2>
 
-![snake gif](https://github.com/RohitSingh-18/RohitSingh-18/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/RohitSingh-18/RohitSingh-18/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 
 ###
